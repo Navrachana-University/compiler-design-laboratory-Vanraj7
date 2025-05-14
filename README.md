@@ -49,10 +49,11 @@ Through simplified syntax and coastal metaphors, it makes learning compiler conc
    ./obxc sample1.obx
 
 ### 📄 Example Program (sample1.obx) 
-pogues hideout jj x;
-treasure x = 42;
-trade(x); 
-hideout 
+     ```bash 
+      pogues hideout jj x;
+      treasure x = 42;
+      trade(x); 
+      hideout 
 
 
 
