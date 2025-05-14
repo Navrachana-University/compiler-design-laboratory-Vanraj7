@@ -60,10 +60,10 @@ pogues hideout jj x; treasure x = 42; trade(x); hideout
 —-
 
 🚤 Key Features 
-—Custom language syntax themed on the Outer Banks 
-—Tokenization with Flex Syntax parsing with Bison 
-—Intermediate Code Generation (3AC) Modular file structure 
-—Lightweight and educational 
+—-Custom language syntax themed on the Outer Banks 
+—-Tokenization with Flex Syntax parsing with Bison 
+—-Intermediate Code Generation (3AC) Modular file structure 
+—-Lightweight and educational 
 
 —
 
