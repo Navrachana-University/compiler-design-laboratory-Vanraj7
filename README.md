@@ -49,13 +49,18 @@ Through simplified syntax and coastal metaphors, it makes learning compiler conc
    ./obxc sample1.obx
 
 ### 📄 Example Program (sample1.obx) 
-pogues hideout jj x; treasure x = 42; trade(x); hideout 
+pogues hideout jj x;
+treasure x = 42;
+trade(x); 
+hideout 
 
-—
+
 
 ### 💻 System Requirements 
-— GCC Compiler Flex (Fast Lexical Analyzer) 
-— Bison (GNU Parser Generator) Unix/Linux shell (preferred) 
+
+- GCC Compiler Flex (Fast Lexical Analyzer) 
+
+- Bison (GNU Parser Generator) Unix/Linux shell (preferred) 
 
 —-
 
