@@ -50,5 +50,28 @@ Through simplified syntax and coastal metaphors, it makes learning compiler conc
 
 ### 📄 Example Program (sample1.obx) 
 pogues hideout jj x; treasure x = 42; trade(x); hideout 
+
 —
-💻 System Requirements GCC Compiler Flex (Fast Lexical Analyzer) Bison (GNU Parser Generator) Unix/Linux shell (preferred) 🚤 Key Features Custom language syntax themed on the Outer Banks Tokenization with Flex Syntax parsing with Bison Intermediate Code Generation (3AC) Modular file structure Lightweight and educational 🙏 Acknowledgments Prof. Vaibhavi Patel for insightful mentorship and continuous support. Nishil Patel for valuable collaboration and testing efforts. 📚 Inspiration Like the Outer Banks' coastline — unpredictable, calm, and wild — this compiler balances simplicity with potential. It transforms compiler design into an exploratory adventure, letting students connect logic with creativity through a themed programming environment.
+
+### 💻 System Requirements 
+— GCC Compiler Flex (Fast Lexical Analyzer) 
+— Bison (GNU Parser Generator) Unix/Linux shell (preferred) 
+
+—-
+
+🚤 Key Features 
+— Custom language syntax themed on the Outer Banks 
+— Tokenization with Flex Syntax parsing with Bison 
+— Intermediate Code Generation (3AC) Modular file structure 
+— Lightweight and educational 
+
+—
+
+### 🙏 Acknowledgments 
+— Prof. Vaibhavi Patel for insightful mentorship and continuous support.
+— Nishil Patel for valuable collaboration and testing efforts. 
+
+—
+
+### 📚 Inspiration 
+— Like the Outer Banks' coastline — unpredictable, calm, and wild — this compiler balances simplicity with potential. It transforms compiler design into an exploratory adventure, letting students connect logic with creativity through a themed programming environment.
