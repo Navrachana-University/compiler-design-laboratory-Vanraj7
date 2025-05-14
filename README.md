@@ -49,7 +49,10 @@ Through simplified syntax and coastal metaphors, it makes learning compiler conc
    ./obxc sample1.obx
 
 ### 📄 Example Program (sample1.obx) 
-pogues hideout jj x; treasure x = 42; trade(x); hideout 
+pogues hideout jj x; 
+treasure x = 42; 
+trade(x); 
+hideout 
 
 —
 
@@ -69,7 +72,7 @@ pogues hideout jj x; treasure x = 42; trade(x); hideout
 
 ### 🙏 Acknowledgments 
 — Prof. Vaibhavi Patel for insightful mentorship and continuous support.
-— Nishil Patel for valuable collaboration and testing efforts. 
+ Nishil Patel for valuable collaboration and testing efforts. 
 
 —
 
