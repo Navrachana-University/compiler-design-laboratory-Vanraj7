@@ -63,7 +63,7 @@ Through simplified syntax and coastal metaphors, it makes learning compiler conc
 
 - Bison (GNU Parser Generator) Unix/Linux shell (preferred) 
 
-—-
+
 
 🚤 Key Features 
 
@@ -75,7 +75,7 @@ Through simplified syntax and coastal metaphors, it makes learning compiler conc
 
 - Lightweight and educational 
 
-—
+
 
 ### 🙏 Acknowledgments 
 
