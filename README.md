@@ -65,7 +65,7 @@ Through simplified syntax and coastal metaphors, it makes learning compiler conc
 
 
 
-🚤 Key Features 
+### 🚤 Key Features 
 
 - Custom language syntax themed on the Outer Banks 
 
@@ -86,6 +86,5 @@ Through simplified syntax and coastal metaphors, it makes learning compiler conc
 
 
 ### 📚 Inspiration 
-- Like the Outer Banks' coastline — unpredictable, calm, and wild — this compiler balances simplicity with potential.
-  
-- It transforms compiler design into an exploratory adventure, letting students connect logic with creativity through a themed programming environment.
+
+Like the Outer Banks' coastline — unpredictable, calm, and wild — this compiler balances simplicity with potential. It transforms compiler design into an exploratory adventure, letting students connect logic with creativity through a themed programming environment.
