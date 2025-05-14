@@ -78,10 +78,14 @@ Through simplified syntax and coastal metaphors, it makes learning compiler conc
 —
 
 ### 🙏 Acknowledgments 
-— Prof. Vaibhavi Patel for insightful mentorship and continuous support.
-— Nishil Patel for valuable collaboration and testing efforts. 
 
-—
+- Prof. Vaibhavi Patel for insightful mentorship and continuous support.
+
+- Nishil Patel for valuable collaboration and testing efforts. 
+
+
 
 ### 📚 Inspiration 
-— Like the Outer Banks' coastline — unpredictable, calm, and wild — this compiler balances simplicity with potential. It transforms compiler design into an exploratory adventure, letting students connect logic with creativity through a themed programming environment.
+- Like the Outer Banks' coastline — unpredictable, calm, and wild — this compiler balances simplicity with potential.
+  
+- It transforms compiler design into an exploratory adventure, letting students connect logic with creativity through a themed programming environment.
